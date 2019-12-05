@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "465263912196",
+    "firebase_url": "https://chatcm-379ae.firebaseio.com",
+    "project_id": "chatcm-379ae",
+    "storage_bucket": "chatcm-379ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465263912196:android:ec549ede33e6410c021c51",
+        "android_client_info": {
+          "package_name": "com.ejemplo.chatcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465263912196-uilaakkr9t5qjscr98taq5ajfnpofknv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ejemplo.chatcm",
+            "certificate_hash": "cc7dd05ddba95464140b75714137a70149dc46d6"
+          }
+        },
+        {
+          "client_id": "465263912196-t7bkjds4fl4et0an9lk0bv0fodt4og3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6KNXVnRAu6pQM_cvRnVe0XbUmkeKzAOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465263912196-t7bkjds4fl4et0an9lk0bv0fodt4og3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
